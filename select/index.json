@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "青を掬う",
+  "base_artist": "あたらよ",
+  "createdAt": "2025-12-03T08:38:58.018315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青を掬う",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_青を掬う_あたらよ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青を掬う",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_青を掬う_あたらよ.txt"
+    }
+  ]
+}
